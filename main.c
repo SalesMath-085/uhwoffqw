@@ -1,3 +1,4 @@
+#define _GNU_SOURCE
 #include "registro.h"
 #include "arquivo.h"
 #include "abp_idx.h"
